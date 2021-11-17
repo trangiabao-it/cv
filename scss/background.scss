@@ -1,0 +1,14 @@
+/* background */
+.background {
+  height: 100vh;
+  background-size: cover;
+  background-image: url(http://shanereact.ibthemespro.com/img/slider/3.jpg);
+  .background__content {
+  }
+
+  &__content {
+    background-color: red;
+    &__name {
+    }
+  }
+}
